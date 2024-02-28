@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/andyb/Documents/Documents/Unreal Projects/DreamScaper/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/andyb/Documents/Documents/Unreal Projects/DreamScaper/Content/DreamScaperDemo.umap",
+				"C:/Users/andyb/Documents/Documents/Unreal Projects/DreamScaper/Content/PauseMenu/Paused.uasset",
+				"C:/Users/andyb/Documents/Documents/Unreal Projects/DreamScaper/Content/PauseMenu/Resume.uasset",
+				"C:/Users/andyb/Documents/Documents/Unreal Projects/DreamScaper/Content/StartMenu/Credits.uasset",
+				"C:/Users/andyb/Documents/Documents/Unreal Projects/DreamScaper/Content/StartMenu/DreamScaper.uasset",
+				"C:/Users/andyb/Documents/Documents/Unreal Projects/DreamScaper/Content/StartMenu/Options.uasset",
+				"C:/Users/andyb/Documents/Documents/Unreal Projects/DreamScaper/Content/StartMenu/Quit.uasset",
+				"C:/Users/andyb/Documents/Documents/Unreal Projects/DreamScaper/Content/StartMenu/Start.uasset"
+			]
+		}
+	]
+}
