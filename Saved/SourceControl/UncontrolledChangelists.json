@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/juanh/OneDrive/Documents/GitHub/AlanDreamScaper/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/juanh/OneDrive/Documents/GitHub/AlanDreamScaper/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/juanh/OneDrive/Documents/GitHub/AlanDreamScaper/Content/Combat/BP_Hitbox.uasset",
 				"C:/Users/andyb/Documents/Documents/Unreal Projects/DreamScaper/DreamScaper/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/andyb/Documents/Documents/Unreal Projects/DreamScaper/DreamScaper/Content/UI_SFX/ButtonSFX.uasset",
 				"C:/Users/andyb/Documents/Documents/Unreal Projects/DreamScaper/DreamScaper/Content/UI_SFX/ButtonSFX2.uasset",
