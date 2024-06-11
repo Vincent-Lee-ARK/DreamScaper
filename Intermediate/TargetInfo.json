@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DreamScaper",
+			"Path": "..\\Source\\DreamScaper.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DreamScaperEditor",
+			"Path": "..\\Source\\DreamScaperEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

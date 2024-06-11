@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DreamScaper.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DreamScaper.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DreamScaperEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\DreamScaper.png" />
+    <None Include="..\..\Nex Head.fbx" />
+    <None Include="..\..\Nex.fbx" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DreamScaper">
+      <UniqueIdentifier>{4D1127D9-9883-3E0A-9C9F-450E54AB8429}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DreamScaper\DreamScaper.Build.cs">
+      <Filter>Source\DreamScaper</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DreamScaper\DreamScaper.cpp">
+      <Filter>Source\DreamScaper</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DreamScaper\DreamScaper.h">
+      <Filter>Source\DreamScaper</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DreamScaper\MyClass.cpp">
+      <Filter>Source\DreamScaper</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DreamScaper\MyClass.h">
+      <Filter>Source\DreamScaper</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
