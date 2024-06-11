@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DreamScaper.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\andyb\Documents\Documents\Unreal Projects\DreamScaper Clone\DreamScaper\Intermediate\Build\Win64\x64\DreamScaperEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\andyb\Documents\Documents\Unreal Projects\DreamScaper Clone\DreamScaper\Intermediate\Build\Win64\x64\UnrealEditor\Development\DreamScaper\DreamScaper.cpp.obj"
+"C:\Users\andyb\Documents\Documents\Unreal Projects\DreamScaper Clone\DreamScaper\Intermediate\Build\Win64\x64\UnrealEditor\Development\DreamScaper\MyClass.cpp.obj"
+"C:\Users\andyb\Documents\Documents\Unreal Projects\DreamScaper Clone\DreamScaper\Intermediate\Build\Win64\x64\UnrealEditor\Development\DreamScaper\Default.rc2.res"
+/OUT:"C:\Users\andyb\Documents\Documents\Unreal Projects\DreamScaper Clone\DreamScaper\Intermediate\Build\Win64\x64\UnrealEditor\Development\DreamScaper\UnrealEditor-DreamScaper.lib"

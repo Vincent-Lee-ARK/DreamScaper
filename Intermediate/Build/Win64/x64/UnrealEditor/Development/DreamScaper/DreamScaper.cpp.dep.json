@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\andyb\\documents\\documents\\unreal projects\\dreamscaper clone\\dreamscaper\\source\\dreamscaper\\dreamscaper.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\andyb\\documents\\documents\\unreal projects\\dreamscaper clone\\dreamscaper\\intermediate\\build\\win64\\x64\\dreamscapereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\andyb\\documents\\documents\\unreal projects\\dreamscaper clone\\dreamscaper\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dreamscaper\\definitions.dreamscaper.h",
+            "c:\\users\\andyb\\documents\\documents\\unreal projects\\dreamscaper clone\\dreamscaper\\source\\dreamscaper\\dreamscaper.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
